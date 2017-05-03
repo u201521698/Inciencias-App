@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Incidencias</string>
+    <string name="action_settings">Login</string>
+    <string name="title_activity_articles">Mensajes</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="textOption1">Emergencia</string>
+    <string name="textOption2">Advertencia</string>
+    <string name="textOption3">Bomberos</string>
+    <string name="textOption4">Serenazgo</string>
+    <string name="textOption5">Visita</string>
+    <string name="textOption6">Terminado</string>
+    <string name="textOption7">Grupos</string>
+    <string name="textOption8">Incidencias</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
+

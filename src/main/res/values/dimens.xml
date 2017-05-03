@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_default">10dp</dimen>
+    <dimen name="image_grid_height">120dp</dimen>
+    <dimen name="image_about_height">220dp</dimen>
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="corner_radius">4dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
